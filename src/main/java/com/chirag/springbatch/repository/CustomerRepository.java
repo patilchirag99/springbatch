@@ -1,4 +1,4 @@
-package com.chirag.springbatch.entity.reposiory;
+package com.chirag.springbatch.repository;
 
 import com.chirag.springbatch.entity.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
